@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="55811" started-at="2021-02-07T16:10:52 IST" finished-at="2021-02-07T16:11:48 IST">
+  <suite name="Default suite" duration-ms="53961" started-at="2021-02-07T18:42:50 IST" finished-at="2021-02-07T18:43:44 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="55811" started-at="2021-02-07T16:10:52 IST" finished-at="2021-02-07T16:11:48 IST">
+    <test name="Default test" duration-ms="53961" started-at="2021-02-07T18:42:50 IST" finished-at="2021-02-07T18:43:44 IST">
       <class name="Grootanpackage.Grootanclass">
-        <test-method status="PASS" signature="grootan()[pri:0, instance:Grootanpackage.Grootanclass@4bbfb90a]" name="grootan" duration-ms="31497" started-at="2021-02-07T16:10:52 IST" finished-at="2021-02-07T16:11:23 IST">
+        <test-method status="PASS" signature="grootan()[pri:0, instance:Grootanpackage.Grootanclass@4bbfb90a]" name="grootan" duration-ms="27190" started-at="2021-02-07T18:42:51 IST" finished-at="2021-02-07T18:43:18 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- grootan -->
-        <test-method status="PASS" signature="grootanrerun()[pri:0, instance:Grootanpackage.Grootanclass@4bbfb90a]" name="grootanrerun" duration-ms="24285" started-at="2021-02-07T16:11:23 IST" finished-at="2021-02-07T16:11:48 IST">
+        <test-method status="PASS" signature="grootanrerun()[pri:0, instance:Grootanpackage.Grootanclass@4bbfb90a]" name="grootanrerun" duration-ms="26737" started-at="2021-02-07T18:43:18 IST" finished-at="2021-02-07T18:43:44 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- grootanrerun -->

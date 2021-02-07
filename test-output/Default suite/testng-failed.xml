@@ -5,7 +5,7 @@
     <classes>
       <class name="Grootanpackage.Grootanclass">
         <methods>
-          <include name="grootan"/>
+          <include name="grootanrerun"/>
         </methods>
       </class> <!-- Grootanpackage.Grootanclass -->
     </classes>
