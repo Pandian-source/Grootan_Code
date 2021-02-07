@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55811" started-at="2021-02-07T16:10:52 IST" finished-at="2021-02-07T16:11:48 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55811" started-at="2021-02-07T16:10:52 IST" finished-at="2021-02-07T16:11:48 IST">
+      <class name="Grootanpackage.Grootanclass">
+        <test-method status="PASS" signature="grootan()[pri:0, instance:Grootanpackage.Grootanclass@4bbfb90a]" name="grootan" duration-ms="31497" started-at="2021-02-07T16:10:52 IST" finished-at="2021-02-07T16:11:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- grootan -->
+        <test-method status="PASS" signature="grootanrerun()[pri:0, instance:Grootanpackage.Grootanclass@4bbfb90a]" name="grootanrerun" duration-ms="24285" started-at="2021-02-07T16:11:23 IST" finished-at="2021-02-07T16:11:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- grootanrerun -->
+      </class> <!-- Grootanpackage.Grootanclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
