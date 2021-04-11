@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="53961" started-at="2021-02-07T18:42:50 IST" finished-at="2021-02-07T18:43:44 IST">
+  <suite name="Default suite" duration-ms="18157" started-at="2021-04-11T20:32:31 IST" finished-at="2021-04-11T20:32:49 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="53961" started-at="2021-02-07T18:42:50 IST" finished-at="2021-02-07T18:43:44 IST">
-      <class name="Grootanpackage.Grootanclass">
-        <test-method status="PASS" signature="grootan()[pri:0, instance:Grootanpackage.Grootanclass@4bbfb90a]" name="grootan" duration-ms="27190" started-at="2021-02-07T18:42:51 IST" finished-at="2021-02-07T18:43:18 IST">
+    <test name="Default test" duration-ms="18157" started-at="2021-04-11T20:32:31 IST" finished-at="2021-04-11T20:32:49 IST">
+      <class name="Completecode.Imagecompare">
+        <test-method status="PASS" signature="comparison()[pri:0, instance:Completecode.Imagecompare@1d29cf23]" name="comparison" duration-ms="18119" started-at="2021-04-11T20:32:31 IST" finished-at="2021-04-11T20:32:49 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- grootan -->
-        <test-method status="PASS" signature="grootanrerun()[pri:0, instance:Grootanpackage.Grootanclass@4bbfb90a]" name="grootanrerun" duration-ms="26737" started-at="2021-02-07T18:43:18 IST" finished-at="2021-02-07T18:43:44 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- grootanrerun -->
-      </class> <!-- Grootanpackage.Grootanclass -->
+        </test-method> <!-- comparison -->
+      </class> <!-- Completecode.Imagecompare -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
