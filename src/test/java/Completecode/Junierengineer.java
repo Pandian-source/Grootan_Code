@@ -23,11 +23,8 @@ import org.testng.annotations.Test;
 public class Junierengineer {
 
 	public static WebDriver driver = null;
-	XSSFRow Value;
-	public static String filePath;
 
-
-	@Test
+    @Test
 	public static void Engineer() throws IOException, InterruptedException, InvalidFormatException
 	{
 

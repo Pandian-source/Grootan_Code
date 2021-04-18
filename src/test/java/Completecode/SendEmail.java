@@ -54,7 +54,7 @@ public class SendEmail extends Grootan{
 
 			message.setRecipients(Message.RecipientType.TO,InternetAddress.parse("travelspss3@gmail.com"));
 
-			message.setSubject("pandian Firstclass Automation Result");
+			message.setSubject("Automation Test Result");
 
 			BodyPart messageBodyPart1 = new MimeBodyPart();
 

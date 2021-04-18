@@ -1,17 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="18157" started-at="2021-04-11T20:32:31 IST" finished-at="2021-04-11T20:32:49 IST">
+  <suite name="Suite" duration-ms="34936" started-at="2021-04-18T16:18:24 IST" finished-at="2021-04-18T16:18:59 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="18157" started-at="2021-04-11T20:32:31 IST" finished-at="2021-04-11T20:32:49 IST">
+    <test name="Test" duration-ms="34936" started-at="2021-04-18T16:18:24 IST" finished-at="2021-04-18T16:18:59 IST">
+      <class name="Completecode.Junierengineer">
+        <test-method status="PASS" signature="Engineer()[pri:0, instance:Completecode.Junierengineer@4d41cee]" name="Engineer" duration-ms="9388" started-at="2021-04-18T16:18:50 IST" finished-at="2021-04-18T16:18:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Engineer -->
+      </class> <!-- Completecode.Junierengineer -->
+      <class name="Completecode.Grootan">
+        <test-method status="PASS" signature="test()[pri:0, instance:Completecode.Grootan@6acdbdf5]" name="test" duration-ms="9445" started-at="2021-04-18T16:18:24 IST" finished-at="2021-04-18T16:18:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Completecode.Grootan -->
       <class name="Completecode.Imagecompare">
-        <test-method status="PASS" signature="comparison()[pri:0, instance:Completecode.Imagecompare@1d29cf23]" name="comparison" duration-ms="18119" started-at="2021-04-11T20:32:31 IST" finished-at="2021-04-11T20:32:49 IST">
+        <test-method status="PASS" signature="comparison()[pri:0, instance:Completecode.Imagecompare@17579e0f]" name="comparison" duration-ms="7639" started-at="2021-04-18T16:18:42 IST" finished-at="2021-04-18T16:18:50 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- comparison -->
       </class> <!-- Completecode.Imagecompare -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      <class name="Completecode.Rerun">
+        <test-method status="PASS" signature="grootanrerunandcompare()[pri:0, instance:Completecode.Rerun@4b1c1ea0]" name="grootanrerunandcompare" duration-ms="8422" started-at="2021-04-18T16:18:34 IST" finished-at="2021-04-18T16:18:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- grootanrerunandcompare -->
+      </class> <!-- Completecode.Rerun -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

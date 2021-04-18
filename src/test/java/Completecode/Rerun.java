@@ -14,7 +14,6 @@ import org.apache.poi.ss.usermodel.CreationHelper;
 import org.apache.poi.ss.usermodel.Font;
 import org.apache.poi.ss.usermodel.IndexedColors;
 import org.apache.poi.xssf.usermodel.XSSFCell;
-import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.openqa.selenium.By;
@@ -33,8 +32,6 @@ import ru.yandex.qatools.ashot.comparison.ImageDiffer;
 public class Rerun 
 {
 	public static WebDriver driver = null;
-	XSSFRow Value;
-	public static String filePath;
 
 	@Test
 	public void grootanrerunandcompare() throws IOException
